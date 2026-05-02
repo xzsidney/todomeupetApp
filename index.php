@@ -182,12 +182,12 @@
 <!-- Basic -->
 <div class="bg-white p-8 rounded-3xl border border-slate-200 flex flex-col items-center text-center">
 <span class="text-slate-500 font-label-md mb-4">ESSENCIAL</span>
-<div class="font-headline-xl text-headline-xl text-on-surface mb-6">Grátis</div>
+<div class="font-headline-xl text-headline-xl text-on-surface mb-6">R$ 10,00<span class="text-sm font-normal text-outline">/mês</span></div>
 <ul class="space-y-4 mb-8 text-left w-full">
 <li class="flex items-center gap-2 text-body-md text-outline"><span class="material-symbols-outlined text-primary text-xl">check_circle</span> Perfil Digital Básico</li>
 <li class="flex items-center gap-2 text-body-md text-outline"><span class="material-symbols-outlined text-primary text-xl">check_circle</span> QR Code Compartilhável</li>
 </ul>
-<button class="w-full py-3 rounded-xl border-2 border-slate-200 text-slate-600 font-label-md hover:bg-slate-50 transition-all mt-auto">Começar Grátis</button>
+<button class="w-full py-3 rounded-xl border-2 border-slate-200 text-slate-600 font-label-md hover:bg-slate-50 transition-all mt-auto">Assinar Essencial</button>
 </div>
 <!-- Pro -->
 <div class="bg-white p-8 rounded-3xl border-2 border-primary-container shadow-xl flex flex-col items-center text-center relative scale-105">
